@@ -1126,7 +1126,7 @@ will modify the virtual space and the price of the vehicle, but other informatio
                 "textures\civ\hellcat_rebell.jpg"
             }, "" },
 			{ "GNRA", "cop", {
-                "\textures\gnra\hellcat_gendarm.jpg"
+                "textures\gnra\hellcat_gendarm.jpg"
             }, "" }
         };
     };
