@@ -27,7 +27,7 @@ _text2 = _display displayCtrl 1102;
 _message = "";
 _message = _message + "<t align='center' size='8' shadow='0'><img image='textures\images\logo.jpg' /></t><br /><br />";
 _message = _message + "Links (Klick auf die Links um sie in deinem Browser zu öffnen!)<br /><br />";
-_message = _message + " <a href='www.kommando-vollrauschd.de' color='#56BDD6'>AsYetUntitled</a> -- Die offizielle Hompage von KV<br /><br />";
+_message = _message + " <a href='http://www.kommando-vollrausch.de' color='#56BDD6'>Kommando-Vollrausch</a> -- Die offizielle Hompage von KV<br /><br />";
 _message = _message + "TeamSpeak 3 Adresse: Freibier.sytes.net  <br /><br />";
 //_message = _message + "Discord invite: <a href='https://discord.gg/sEcQdPn' color='#56BDD6'>ArmA RPG Life</a>  <br /><br />";
 
