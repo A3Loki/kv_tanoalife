@@ -18504,7 +18504,7 @@ class Mission
 						disableSimulation=1;
 					};
 					id=1044;
-					type="B_RangeMaster_F";
+					type="U_IG_Guerilla2_1";
 					atlOffset=1.9073486e-006;
 					class CustomAttributes
 					{
@@ -18547,7 +18547,7 @@ class Mission
 						disableSimulation=1;
 					};
 					id=1045;
-					type="B_RangeMaster_F";
+					type="U_IG_Guerilla2_1";
 					atlOffset=0.88800049;
 					class CustomAttributes
 					{
@@ -18610,7 +18610,7 @@ class Mission
 						disableSimulation=1;
 					};
 					id=1046;
-					type="B_RangeMaster_F";
+					type="U_IG_Guerilla2_1";
 					atlOffset=0.13099861;
 					class CustomAttributes
 					{
