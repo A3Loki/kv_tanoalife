@@ -53,6 +53,9 @@ switch (playerSide) do {
         if (uniform player isEqualTo "U_I_HeliPilotCoveralls") then {
             player setObjectTextureGlobal [0, "textures\art\art_uniform.jpg"];
         };
+        if (uniform player isEqualTo "U_IG_Guerilla2_1") then {
+            player setObjectTextureGlobal [0, "textures\art\medic_uniform.jpg"];
+        };        
         (unitBackpack player) setObjectTextureGlobal [0,""];
     };
 };
